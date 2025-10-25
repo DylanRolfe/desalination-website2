@@ -279,7 +279,7 @@ export default function DesalinationWebsite() {
 
             <div className="flex justify-center">
               <a
-                href="https://pacdose-automation.super.site/solution"
+                href="https://pacdose-automation.super.site/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group relative bg-gradient-to-r from-purple-600 to-purple-500 hover:from-purple-500 hover:to-purple-400 text-white font-semibold py-4 px-8 rounded-xl transition-all text-lg shadow-lg hover:shadow-xl transform hover:scale-105 inline-block"
@@ -482,12 +482,12 @@ export default function DesalinationWebsite() {
                   </p>
                   <div className="grid md:grid-cols-2 gap-6">
                     <div className="bg-white/5 p-6 rounded-xl">
-                      <p className="text-4xl font-bold text-cyan-400 mb-3">64K-810K m³</p>
-                      <p className="text-base text-slate-300">water saved annually</p>
+                      <p className="text-4xl font-bold text-cyan-400 mb-3 whitespace-nowrap">64K-810K m³</p>
+                      <p className="text-base text-slate-300">Water saved annually</p>
                     </div>
                     <div className="bg-white/5 p-6 rounded-xl">
                       <p className="text-4xl font-bold text-cyan-400 mb-3">32K-405K</p>
-                      <p className="text-base text-slate-300">people served</p>
+                      <p className="text-base text-slate-300">People served</p>
                     </div>
                   </div>
                 </div>
@@ -503,16 +503,16 @@ export default function DesalinationWebsite() {
             <div className="bg-white/10 p-10 rounded-2xl">
               <div className="grid md:grid-cols-3 gap-8 mb-8">
                 <div className="text-center">
-                  <p className="text-5xl font-bold text-cyan-400 mb-4">77K-924K m³</p>
-                  <p className="text-lg text-slate-300">water saved per year</p>
+                  <p className="text-5xl font-bold text-cyan-400 mb-4 whitespace-nowrap">77K-924K m³</p>
+                  <p className="text-lg text-slate-300">Water saved per year</p>
                 </div>
                 <div className="text-center">
                   <p className="text-5xl font-bold text-cyan-400 mb-4">$77K-1.8M</p>
-                  <p className="text-lg text-slate-300">annual savings</p>
+                  <p className="text-lg text-slate-300">Annual savings</p>
                 </div>
                 <div className="text-center">
                   <p className="text-5xl font-bold text-cyan-400 mb-4">38K-462K</p>
-                  <p className="text-lg text-slate-300">people served</p>
+                  <p className="text-lg text-slate-300">People served</p>
                 </div>
               </div>
             </div>
