@@ -792,35 +792,35 @@ export default function DesalinationWebsite() {
           </div>
 
           <div className="bg-slate-900/50 backdrop-blur-sm rounded-lg p-8 border border-slate-800 mb-12">
-            <h3 className="text-xl font-semibold mb-4 text-center text-white">Why It's Feasible Now</h3>
-            <div className="grid md:grid-cols-2 gap-6">
-              <div className="space-y-3 text-slate-300">
-                <div className="flex items-start gap-2">
-                  <span className="text-sky-400 mt-1">•</span>
-                  <div className="text-sm">
+            <h3 className="text-xl font-semibold mb-6 text-center text-white">Why It's Feasible Now</h3>
+            <div className="grid md:grid-cols-2 gap-8">
+              <div className="space-y-4">
+                <div className="flex items-start gap-3">
+                  <span className="text-sky-400 text-lg leading-none flex-shrink-0">•</span>
+                  <div className="text-sm text-slate-300">
                     <span className="font-medium text-white">Sensors are cheap and rugged:</span>
                     <span> UV254 and fluorescence monitors now under $1k-2k USD</span>
                   </div>
                 </div>
-                <div className="flex items-start gap-2">
-                  <span className="text-sky-400 mt-1">•</span>
-                  <div className="text-sm">
+                <div className="flex items-start gap-3">
+                  <span className="text-sky-400 text-lg leading-none flex-shrink-0">•</span>
+                  <div className="text-sm text-slate-300">
                     <span className="font-medium text-white">Automation is simple:</span>
                     <span> Even a Raspberry Pi or low-end PLC can run the dosing logic</span>
                   </div>
                 </div>
               </div>
-              <div className="space-y-3 text-slate-300">
-                <div className="flex items-start gap-2">
-                  <span className="text-sky-400 mt-1">•</span>
-                  <div className="text-sm">
+              <div className="space-y-4">
+                <div className="flex items-start gap-3">
+                  <span className="text-sky-400 text-lg leading-none flex-shrink-0">•</span>
+                  <div className="text-sm text-slate-300">
                     <span className="font-medium text-white">Retrofits are non-invasive:</span>
                     <span> Everything fits on existing pipes and panels</span>
                   </div>
                 </div>
-                <div className="flex items-start gap-2">
-                  <span className="text-sky-400 mt-1">•</span>
-                  <div className="text-sm">
+                <div className="flex items-start gap-3">
+                  <span className="text-sky-400 text-lg leading-none flex-shrink-0">•</span>
+                  <div className="text-sm text-slate-300">
                     <span className="font-medium text-white">Impact is measurable:</span>
                     <span> Watch SDI and UV254 drop in real-time</span>
                   </div>
